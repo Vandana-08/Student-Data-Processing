@@ -1,15 +1,2 @@
-# Student-Data-Processing
-This repository contains a Python project that manages and analyzes student academic data. It demonstrates Object‑Oriented Programming, data processing, and file handling by:
-
-1.Storing student identities (roll number, name, stream)
-
-2.Handling subject‑wise marks
-
-3.Computing total and percentage
-
-4.Determining pass/fail (per‑subject pass mark)
-
-5.Printing a clean, formatted final report
-
-6.Exporting results to text and CSV for sharing or further analysis
-
+# Student Academic Performance Management System:
+Developed a Python-based application to manage student academic records by integrating object‑oriented programming concepts. The system captures student details, processes subject-wise marks, computes totals and percentages, and automatically evaluates pass/fail status. Implemented file handling to generate and store complete student reports, enabling easy retrieval and review. This project demonstrates strong skills in modular programming, data handling, and structured output generation.
